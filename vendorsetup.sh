@@ -1,0 +1,2 @@
+add_lunch_combo cos_scorpio-userdebug
+add_lunch_combo cos_scorpio-eng
